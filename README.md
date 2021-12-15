@@ -5,7 +5,6 @@
 
 2. 클래스 등록 페이지
 ![screenshot2](https://user-images.githubusercontent.com/89093279/146143315-3477533d-04c6-4115-b673-20e46d1b4526.PNG)
-![screenshot3](https://user-images.githubusercontent.com/89093279/146143347-b47d323f-7e9f-4380-9557-83324d0c8f8b.PNG)
 ![screenshot4](https://user-images.githubusercontent.com/89093279/146143323-3393dfe3-3d67-4d55-b4e3-7a76f253bf5a.PNG)
 
 3. 제품 상세 페이지
