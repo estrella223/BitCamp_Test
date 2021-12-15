@@ -1,5 +1,5 @@
 # BitCamp_UI
-<font style="font-size:16pt;"><b>프론트</b><font>
+<font size="30pt"><b>프론트</b><font>
 1. 메인 페이지
 ![screenshot1](https://user-images.githubusercontent.com/89093279/146143297-b015c5af-9216-4dc0-9ef6-36e1396860fb.PNG)
 
