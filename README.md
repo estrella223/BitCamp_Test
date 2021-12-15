@@ -1,5 +1,5 @@
 # BitCamp_UI
-<font size="30pt"><b>프론트</b><font>
+<b>프론트</b>
 1. 메인 페이지
 ![screenshot1](https://user-images.githubusercontent.com/89093279/146143297-b015c5af-9216-4dc0-9ef6-36e1396860fb.PNG)
 
@@ -11,5 +11,5 @@
 ![screenshot5](https://user-images.githubusercontent.com/89093279/146143594-e5b30e10-da55-40c6-bcf7-c7579bf03d4e.PNG)
 
 <br>
-<font style="font-size:16pt;"><b>DB설계</b><font>
+<font size="30pt"><b>DB설계</b></font>
 <img width="1012" alt="DB2차" src="https://user-images.githubusercontent.com/89093279/146143411-ffe8b8c4-9b31-49fb-a1ac-5e96f993f24f.png">
