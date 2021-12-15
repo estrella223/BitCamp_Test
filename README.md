@@ -11,5 +11,5 @@
 ![screenshot5](https://user-images.githubusercontent.com/89093279/146143594-e5b30e10-da55-40c6-bcf7-c7579bf03d4e.PNG)
 
 <br>
-<font style="font-size: 30pt;"><b>DB설계</b></font>
+<b>DB설계</b>
 <img width="1012" alt="DB2차" src="https://user-images.githubusercontent.com/89093279/146143411-ffe8b8c4-9b31-49fb-a1ac-5e96f993f24f.png">
